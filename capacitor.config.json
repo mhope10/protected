@@ -1,0 +1,7 @@
+{
+  "appId": "protected.com",
+  "appName": "Protected",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
